@@ -14,6 +14,6 @@
 
 var myteam = ["rohit","ishan","virat","surya","rahul"]
 
-localStorage.setItem("Indian team",JSON.stringify(myteam));
-var data=JSON.parse(localStorage.getItem("Indian team"));
+localStorage.setItem("Indianteam",JSON.stringify(myteam));
+var data=JSON.parse(localStorage.getItem("Indianteam"));
 console.log(data)
