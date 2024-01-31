@@ -70,7 +70,7 @@ body {
 }
 
 .loginBtn:hover {
-    background: green;
+    background: rgb(229, 81, 197);
     border: 2px solid green;
 }
 
@@ -78,7 +78,7 @@ body {
 @keyframes colorChange {
 
     0% {
-        border-color: green;
+        border-color: rgb(239, 179, 30);
         color: green;
     }
 
