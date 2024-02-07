@@ -20,7 +20,7 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    background-color: rgb(16, 0, 0);
+    background-color: rgb(235, 110, 220);
     color: white;
     width: 25rem;
     border-radius: 10px;
@@ -59,7 +59,7 @@ body {
 
 .loginBtn {
     background: transparent;
-    border: 2px solid green;
+    border: 2px solid rgb(46, 50, 46);
     padding: 1rem 3rem;
     border-radius: 6rem;
     text-decoration: underline;
